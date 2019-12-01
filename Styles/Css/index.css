@@ -9,9 +9,13 @@
     width: 20%;
     text-align: center;
     color: white;
+    font-family: cursive;
+    font-style: normal;
 }
 .header__link {
     color: white;
+    font-family: cursive;
+    font-style: normal;
 }
 
 .body {
@@ -26,11 +30,16 @@ height: 100%;
 }
 
 .footer__column {
-    background-color:red;
+    /* background-color:red; */
     float: left;
     width: 15%;
     height: 200px;
     margin-left: 5%;
+    text-align: center;
+    margin-top: 40px;
+    color: white;
+    font-family: cursive;
+    font-style: normal;
 }
 
 .main_page {
