@@ -1,0 +1,50 @@
+.header {
+    background-color:blueviolet;
+    width: 100%;
+}
+
+
+.header__column {
+    background-color: yellow;
+    float: left;
+    width: 25%;
+}
+
+.footer {
+    background-color:blueviolet;
+    width: 100%;;
+}
+
+.footer__column {
+    background-color:red;
+    float: left;
+    width: 25%;
+}
+
+.body {
+    background-color:greenyellow;
+    width: 100%;
+}
+
+
+.body__column {
+    background-color: pink;
+    float: left;
+    width: 25%;
+}
+
+.side__bar {
+    background-color: blue;
+    float: left;
+    width: 25%;
+}
+.side__bar__column {
+    background-color: blue;
+    width: 25%;
+}
+
+.content {
+    background-color: grey;
+    float: left;
+    width: 75%;
+}
